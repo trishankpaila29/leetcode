@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/trishankpaila29/leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/trishankpaila29/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trishankpaila29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/trishankpaila29/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/trishankpaila29/leetcode/tree/master/0031-next-permutation) |
 | [2396-strictly-palindromic-number](https://github.com/trishankpaila29/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
