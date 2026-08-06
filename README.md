@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/trishankpaila29/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3110-score-of-a-string](https://github.com/trishankpaila29/leetcode/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/trishankpaila29/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/trishankpaila29/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Counting Sort
