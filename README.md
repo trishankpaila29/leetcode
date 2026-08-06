@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/trishankpaila29/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/trishankpaila29/leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/trishankpaila29/leetcode/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/trishankpaila29/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/trishankpaila29/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/trishankpaila29/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/trishankpaila29/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Counting Sort
 |  |
 | ------- |
