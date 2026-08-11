@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/trishankpaila29/leetcode/tree/master/0031-next-permutation) |
 | [2396-strictly-palindromic-number](https://github.com/trishankpaila29/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3794-reverse-string-prefix](https://github.com/trishankpaila29/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Brainteaser
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/trishankpaila29/leetcode/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/trishankpaila29/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/trishankpaila29/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/trishankpaila29/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Counting Sort
 |  |
 | ------- |
