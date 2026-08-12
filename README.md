@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/trishankpaila29/leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/trishankpaila29/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/trishankpaila29/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/trishankpaila29/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trishankpaila29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/trishankpaila29/leetcode/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/trishankpaila29/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/trishankpaila29/leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/trishankpaila29/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -115,5 +117,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/trishankpaila29/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/trishankpaila29/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
