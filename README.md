@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/trishankpaila29/leetcode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/trishankpaila29/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/trishankpaila29/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2769-find-the-maximum-achievable-number](https://github.com/trishankpaila29/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/trishankpaila29/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/trishankpaila29/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/trishankpaila29/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
