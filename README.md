@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/trishankpaila29/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/trishankpaila29/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/trishankpaila29/leetcode/tree/master/3668-restore-finishing-order) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/trishankpaila29/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/trishankpaila29/leetcode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/trishankpaila29/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/trishankpaila29/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/trishankpaila29/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/trishankpaila29/leetcode/tree/master/3668-restore-finishing-order) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/trishankpaila29/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/trishankpaila29/leetcode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/trishankpaila29/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Divide and Conquer
