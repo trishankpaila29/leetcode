@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trishankpaila29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/trishankpaila29/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/trishankpaila29/leetcode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/trishankpaila29/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/trishankpaila29/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/trishankpaila29/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/trishankpaila29/leetcode/tree/master/1470-shuffle-the-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/trishankpaila29/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/trishankpaila29/leetcode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/trishankpaila29/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/trishankpaila29/leetcode/tree/master/0771-jewels-and-stones) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/trishankpaila29/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/trishankpaila29/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -139,5 +141,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/trishankpaila29/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/trishankpaila29/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
