@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/trishankpaila29/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/trishankpaila29/leetcode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/trishankpaila29/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3903-smallest-stable-index-i](https://github.com/trishankpaila29/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/trishankpaila29/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/trishankpaila29/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3903-smallest-stable-index-i](https://github.com/trishankpaila29/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
