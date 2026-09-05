@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/trishankpaila29/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/trishankpaila29/leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/trishankpaila29/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/trishankpaila29/leetcode/tree/master/0053-maximum-subarray) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/trishankpaila29/leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/trishankpaila29/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/trishankpaila29/leetcode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/trishankpaila29/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/trishankpaila29/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/trishankpaila29/leetcode/tree/master/0031-next-permutation) |
 | [2396-strictly-palindromic-number](https://github.com/trishankpaila29/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3794-reverse-string-prefix](https://github.com/trishankpaila29/leetcode/tree/master/3794-reverse-string-prefix) |
