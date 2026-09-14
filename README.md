@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/trishankpaila29/leetcode/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/trishankpaila29/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/trishankpaila29/leetcode/tree/master/0836-rectangle-overlap) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/trishankpaila29/leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/trishankpaila29/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/trishankpaila29/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/trishankpaila29/leetcode/tree/master/0056-merge-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/trishankpaila29/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
