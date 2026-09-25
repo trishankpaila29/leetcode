@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/trishankpaila29/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/trishankpaila29/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/trishankpaila29/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/trishankpaila29/leetcode/tree/master/0031-next-permutation) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/trishankpaila29/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/trishankpaila29/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/trishankpaila29/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/trishankpaila29/leetcode/tree/master/0031-next-permutation) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/trishankpaila29/leetcode/tree/master/0011-container-with-most-water) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/trishankpaila29/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/trishankpaila29/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Heap (Priority Queue)
