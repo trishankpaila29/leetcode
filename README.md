@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/trishankpaila29/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/trishankpaila29/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/trishankpaila29/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/trishankpaila29/leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/trishankpaila29/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/trishankpaila29/leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/trishankpaila29/leetcode/tree/master/0771-jewels-and-stones) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/trishankpaila29/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/trishankpaila29/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/trishankpaila29/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/trishankpaila29/leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/trishankpaila29/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/trishankpaila29/leetcode/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/trishankpaila29/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/trishankpaila29/leetcode/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/trishankpaila29/leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/trishankpaila29/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/trishankpaila29/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
