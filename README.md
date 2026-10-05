@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/trishankpaila29/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/trishankpaila29/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/trishankpaila29/leetcode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/trishankpaila29/leetcode/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trishankpaila29/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/trishankpaila29/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/trishankpaila29/leetcode/tree/master/1470-shuffle-the-array) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/trishankpaila29/leetcode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/trishankpaila29/leetcode/tree/master/0704-binary-search) |
 ## Binary Indexed Tree
 |  |
 | ------- |
