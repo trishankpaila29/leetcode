@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/trishankpaila29/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/trishankpaila29/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/trishankpaila29/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/trishankpaila29/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/trishankpaila29/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/trishankpaila29/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/trishankpaila29/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/trishankpaila29/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/trishankpaila29/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/trishankpaila29/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Matrix
 |  |
