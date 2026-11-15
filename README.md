@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/trishankpaila29/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/trishankpaila29/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/trishankpaila29/leetcode/tree/master/0018-4sum) |
@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/trishankpaila29/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/trishankpaila29/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/trishankpaila29/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/trishankpaila29/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/trishankpaila29/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/trishankpaila29/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/trishankpaila29/leetcode/tree/master/0118-pascals-triangle) |
@@ -53,8 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/trishankpaila29/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/trishankpaila29/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/trishankpaila29/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/trishankpaila29/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/trishankpaila29/leetcode/tree/master/0169-majority-element) |
@@ -75,14 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/trishankpaila29/leetcode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/trishankpaila29/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/trishankpaila29/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/trishankpaila29/leetcode/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/trishankpaila29/leetcode/tree/master/0493-reverse-pairs) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/trishankpaila29/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/trishankpaila29/leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/trishankpaila29/leetcode/tree/master/0056-merge-intervals) |
@@ -102,15 +103,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/trishankpaila29/leetcode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/trishankpaila29/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/trishankpaila29/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/trishankpaila29/leetcode/tree/master/0229-majority-element-ii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/trishankpaila29/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/trishankpaila29/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/trishankpaila29/leetcode/tree/master/0048-rotate-image) |
 | [0507-perfect-number](https://github.com/trishankpaila29/leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/trishankpaila29/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -136,8 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/trishankpaila29/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3783-mirror-distance-of-an-integer](https://github.com/trishankpaila29/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/trishankpaila29/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/trishankpaila29/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/trishankpaila29/leetcode/tree/master/0018-4sum) |
@@ -148,31 +149,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/trishankpaila29/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/trishankpaila29/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/trishankpaila29/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/trishankpaila29/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/trishankpaila29/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/trishankpaila29/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trishankpaila29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/trishankpaila29/leetcode/tree/master/0152-maximum-product-subarray) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/trishankpaila29/leetcode/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/trishankpaila29/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/trishankpaila29/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/trishankpaila29/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/trishankpaila29/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0242-valid-anagram](https://github.com/trishankpaila29/leetcode/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/trishankpaila29/leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/trishankpaila29/leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -187,73 +188,75 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/trishankpaila29/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/trishankpaila29/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trishankpaila29/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/trishankpaila29/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/trishankpaila29/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/trishankpaila29/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/trishankpaila29/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/trishankpaila29/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/trishankpaila29/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/trishankpaila29/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/trishankpaila29/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/trishankpaila29/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0645-set-mismatch](https://github.com/trishankpaila29/leetcode/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/trishankpaila29/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/trishankpaila29/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/trishankpaila29/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/trishankpaila29/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3903-smallest-stable-index-i](https://github.com/trishankpaila29/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/trishankpaila29/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Boyer–Moore Majority Vote Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0229-majority-element-ii](https://github.com/trishankpaila29/leetcode/tree/master/0229-majority-element-ii) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/trishankpaila29/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Quicksort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0056-merge-intervals](https://github.com/trishankpaila29/leetcode/tree/master/0056-merge-intervals) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/trishankpaila29/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/trishankpaila29/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/trishankpaila29/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/trishankpaila29/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/trishankpaila29/leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/trishankpaila29/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/trishankpaila29/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/trishankpaila29/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/trishankpaila29/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/trishankpaila29/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/trishankpaila29/leetcode/tree/master/0493-reverse-pairs) |
@@ -261,25 +264,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/trishankpaila29/leetcode/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/trishankpaila29/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/trishankpaila29/leetcode/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/trishankpaila29/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/trishankpaila29/leetcode/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/trishankpaila29/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/trishankpaila29/leetcode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/trishankpaila29/leetcode/tree/master/0493-reverse-pairs) |
 ## Treap
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/trishankpaila29/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
